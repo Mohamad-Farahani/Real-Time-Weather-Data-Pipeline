@@ -38,4 +38,5 @@ def WeatherToEventHub(myTimer: func.TimerRequest) -> None:
         logging.info("Success: Weather data pushed to Event Hub.")
         
     except Exception as e:
+
         logging.error(f"Error: {e}")
