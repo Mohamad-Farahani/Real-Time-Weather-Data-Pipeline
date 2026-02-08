@@ -5,9 +5,7 @@
 An end-to-end Data Engineering and Machine Learning project built on the **Azure Databricks Lakehouse**. This project ingests live weather data via **Azure Event Hubs**, processes it through a **Medallion Architecture**, and applies **Linear Regression** to predict future temperatures.
 
 ---
-<p align="center">
-  <img src="Assets/Animation.gif" width="600" alt="Project Architecture">
-</p>
+![Project Architecture](Assets/flowchart.jpg)
 
 ## 🚀 Project Overview
 This pipeline is designed to handle high-velocity streaming data, ensuring that raw weather information is cleaned, structured, and utilized for predictive analytics within minutes of capture.
@@ -64,6 +62,10 @@ The project features a **Databricks AI/BI (Lakeview) Dashboard** that provides:
 * **Forecast Accuracy:** A dual-line chart overlaying the **Silver Layer (Actual)** data with the **ML Gold Layer (Predicted)** data.
 * **Historical Trends:** Interactive filters to explore weather patterns over time.
 
+<p align="center">
+  <img src="Assets/Animation.gif" width="600" alt="Project Architecture">
+</p>
+
 ---
 
 ## 📝 Setup Instructions
@@ -75,4 +77,4 @@ The project features a **Databricks AI/BI (Lakeview) Dashboard** that provides:
 
 ---
 ![Project Architecture](Assets/Visualization.jpg)
-![Project Architecture](Assets/Job.jpg)
+
