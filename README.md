@@ -1,4 +1,4 @@
-![Project Architecture](Assets/Animationn.mp4)
+![Project Architecture](Assets/Animation.gif)
 ![Project Architecture](Assets/Visualization.jpg)
 ![Project Architecture](Assets/Job.jpg)
 # 🌦️ Real-Time Weather Intelligence & ML Forecasting Pipeline
