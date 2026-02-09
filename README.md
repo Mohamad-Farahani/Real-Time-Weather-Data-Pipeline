@@ -63,7 +63,7 @@ The project features a **Databricks AI/BI (Lakeview) Dashboard** that provides:
 * **Historical Trends:** Interactive filters to explore weather patterns over time.
 
 <p align="center">
-  <img src="Assets/Animation.gif" width="600" alt="Project Architecture">
+  <img src="Assets/Animation.gif" width="800" alt="Project Architecture">
 </p>
 
 ---
